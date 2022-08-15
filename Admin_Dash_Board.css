@@ -418,7 +418,7 @@ main > h2 {
 
 @media only screen and (max-width: 900px) {
     body {
-      --dashboard-width: 70px;
+        --dashboard-width: 70px;
     }
 
     .dashboard p {
